@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "maps.endpoint",
+      "type": "java.lang.String",
+      "description": "Description for maps.endpoint."
+  }
+] }
